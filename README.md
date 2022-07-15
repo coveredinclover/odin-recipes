@@ -1,0 +1,1 @@
+The goal of this project is to create a website with an index.html webpage, as well as several links to recipes.
